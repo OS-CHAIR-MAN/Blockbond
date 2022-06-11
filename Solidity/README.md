@@ -2,7 +2,7 @@
 
 
 
-### Cryptocurrencies Company for Financial Transactions (CCFT)
+### *Cryptocurrencies Company for Financial Transactions (CCFT)
 
 
 
@@ -12,4 +12,4 @@
 
 
 
-### Gateway Wallet Alliance for Telecom (GWAT)
+### *Gateway Wallet Alliance for Telecom (GWAT)
